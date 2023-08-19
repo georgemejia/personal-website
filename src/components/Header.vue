@@ -1,5 +1,5 @@
 <template>
-  <heading class="header">
+  <header class="header">
       <div class="container">
          <a class="brand" href="#">jorgemejia</a>
          <nav class="nav">
@@ -7,7 +7,7 @@
             <a class="nav-link" href="#">linkedin</a>
          </nav>
       </div>
-  </heading>
+  </header>
 </template>
 
 <style scoped>

@@ -55,10 +55,12 @@
    color: white;
 }
 .link {
-   font-size: 1.25rem;
+   font-size: 1.125rem;
+   letter-spacing: 1px;
    color: white;
    text-decoration: none;
    border-bottom: solid aquamarine 2px;
+   text-transform: uppercase;
 }
 .project-image {
    margin-bottom: 20px;

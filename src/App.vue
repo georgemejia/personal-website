@@ -41,4 +41,10 @@ export default {
    max-width: 95%;
    margin: 0 auto;
 }
+
+@media screen and (min-width: 760px) {
+   .container {
+      max-width: 90%;
+   }
+}
 </style>

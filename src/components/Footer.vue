@@ -1,5 +1,6 @@
 <template>
    <footer class="footer">
+      <hr class="line">
       <div class="container">
          <p class="footer-name">jorgemejia</p>
       </div>
